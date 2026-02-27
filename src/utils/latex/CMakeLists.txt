@@ -16,6 +16,7 @@ target_link_libraries(noon_utils_latex PRIVATE
     Qt6::Quick
     Qt6::Sql
     Qt6::Concurrent
+    tinyxml2::tinyxml2
     microtex
 )
 
