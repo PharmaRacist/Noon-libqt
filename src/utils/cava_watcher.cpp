@@ -106,7 +106,7 @@ void CavaWatcher::onReadyRead() {
 }
 
 void CavaWatcher::onProcessError(QProcess::ProcessError error) {
-    qWarning() << "CAVA process error:" << error;
+    // qWarning() << "CAVA process error:" << error;
 }
 
 void CavaWatcher::onProcessFinished(int exitCode, QProcess::ExitStatus exitStatus) {
