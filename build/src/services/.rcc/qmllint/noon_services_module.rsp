@@ -1,0 +1,12 @@
+-I
+/home/pharmaracist/Noon-libqt/build
+-I
+/home/pharmaracist/Noon-libqt/build/Noon/Services
+-I
+/home/pharmaracist/Noon-libqt/build/src/services
+-I
+/usr/lib/qt6/qml
+--resource
+/home/pharmaracist/Noon-libqt/build/src/services/.qt/rcc/qmake_Noon_Services.qrc
+--module
+Noon.Services

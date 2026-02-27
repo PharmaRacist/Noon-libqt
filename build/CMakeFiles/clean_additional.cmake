@@ -1,0 +1,43 @@
+# Additional clean files
+cmake_minimum_required(VERSION 3.16)
+
+if("${CONFIG}" STREQUAL "" OR "${CONFIG}" STREQUAL "Release")
+  file(REMOVE_RECURSE
+  "src/CMakeFiles/noon_autogen.dir/AutogenUsed.txt"
+  "src/CMakeFiles/noon_autogen.dir/ParseCache.txt"
+  "src/CMakeFiles/noonplugin_autogen.dir/AutogenUsed.txt"
+  "src/CMakeFiles/noonplugin_autogen.dir/ParseCache.txt"
+  "src/lib/microtex/CMakeFiles/microtex_autogen.dir/AutogenUsed.txt"
+  "src/lib/microtex/CMakeFiles/microtex_autogen.dir/ParseCache.txt"
+  "src/lib/microtex/microtex_autogen"
+  "src/lib/qtqr/CMakeFiles/qtqr_autogen.dir/AutogenUsed.txt"
+  "src/lib/qtqr/CMakeFiles/qtqr_autogen.dir/ParseCache.txt"
+  "src/lib/qtqr/qtqr_autogen"
+  "src/noon_autogen"
+  "src/noonplugin_autogen"
+  "src/services/CMakeFiles/noon_services_autogen.dir/AutogenUsed.txt"
+  "src/services/CMakeFiles/noon_services_autogen.dir/ParseCache.txt"
+  "src/services/CMakeFiles/noon_servicesplugin_autogen.dir/AutogenUsed.txt"
+  "src/services/CMakeFiles/noon_servicesplugin_autogen.dir/ParseCache.txt"
+  "src/services/noon_services_autogen"
+  "src/services/noon_servicesplugin_autogen"
+  "src/utils/CMakeFiles/noon_utils_autogen.dir/AutogenUsed.txt"
+  "src/utils/CMakeFiles/noon_utils_autogen.dir/ParseCache.txt"
+  "src/utils/CMakeFiles/noon_utilsplugin_autogen.dir/AutogenUsed.txt"
+  "src/utils/CMakeFiles/noon_utilsplugin_autogen.dir/ParseCache.txt"
+  "src/utils/latex/CMakeFiles/noon_utils_latex_autogen.dir/AutogenUsed.txt"
+  "src/utils/latex/CMakeFiles/noon_utils_latex_autogen.dir/ParseCache.txt"
+  "src/utils/latex/CMakeFiles/noon_utils_latexplugin_autogen.dir/AutogenUsed.txt"
+  "src/utils/latex/CMakeFiles/noon_utils_latexplugin_autogen.dir/ParseCache.txt"
+  "src/utils/latex/noon_utils_latex_autogen"
+  "src/utils/latex/noon_utils_latexplugin_autogen"
+  "src/utils/noon_utils_autogen"
+  "src/utils/noon_utilsplugin_autogen"
+  "src/utils/qr/CMakeFiles/noon_utils_qr_autogen.dir/AutogenUsed.txt"
+  "src/utils/qr/CMakeFiles/noon_utils_qr_autogen.dir/ParseCache.txt"
+  "src/utils/qr/CMakeFiles/noon_utils_qrplugin_autogen.dir/AutogenUsed.txt"
+  "src/utils/qr/CMakeFiles/noon_utils_qrplugin_autogen.dir/ParseCache.txt"
+  "src/utils/qr/noon_utils_qr_autogen"
+  "src/utils/qr/noon_utils_qrplugin_autogen"
+  )
+endif()

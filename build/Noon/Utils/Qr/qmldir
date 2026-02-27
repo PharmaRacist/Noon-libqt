@@ -1,0 +1,8 @@
+module Noon.Utils.Qr
+linktarget noon_utils_qrplugin
+optional plugin noon_utils_qrplugin
+classname Noon_Utils_QrPlugin
+typeinfo noon_utils_qr.qmltypes
+prefer :/qt/qml/Noon/Utils/Qr/
+depends QtQuick
+

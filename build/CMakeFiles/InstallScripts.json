@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/pharmaracist/Noon-libqt/build/cmake_install.cmake",
+		"/home/pharmaracist/Noon-libqt/build/src/cmake_install.cmake",
+		"/home/pharmaracist/Noon-libqt/build/src/lib/microtex/cmake_install.cmake",
+		"/home/pharmaracist/Noon-libqt/build/src/lib/qtqr/cmake_install.cmake",
+		"/home/pharmaracist/Noon-libqt/build/src/utils/cmake_install.cmake",
+		"/home/pharmaracist/Noon-libqt/build/src/utils/latex/cmake_install.cmake",
+		"/home/pharmaracist/Noon-libqt/build/src/utils/qr/cmake_install.cmake",
+		"/home/pharmaracist/Noon-libqt/build/src/services/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

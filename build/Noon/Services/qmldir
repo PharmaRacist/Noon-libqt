@@ -1,0 +1,8 @@
+module Noon.Services
+linktarget noon_servicesplugin
+optional plugin noon_servicesplugin
+classname Noon_ServicesPlugin
+typeinfo noon_services.qmltypes
+prefer :/qt/qml/Noon/Services/
+depends QtQuick
+

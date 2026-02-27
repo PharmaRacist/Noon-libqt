@@ -6,9 +6,8 @@ set(CMAKE_CXX_EXTENSIONS        OFF)
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
-
 find_package(Qt6 REQUIRED COMPONENTS Core Gui Qml Quick Sql)
 qt_standard_project_setup(REQUIRES 6.5)
 
 include(GNUInstallDirs)
-add_subdirectory(plugins)
+add_subdirectory(src)

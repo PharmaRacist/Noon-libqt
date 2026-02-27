@@ -1,0 +1,11 @@
+--bare
+-I
+/home/pharmaracist/Noon-libqt/build
+-I
+/home/pharmaracist/Noon-libqt/build/Noon/Utils/Latex
+-I
+/home/pharmaracist/Noon-libqt/build/src/utils/latex
+-I
+/usr/lib/qt6/qml
+--resource
+/home/pharmaracist/Noon-libqt/build/src/utils/latex/.qt/rcc/qmake_Noon_Utils_Latex.qrc

@@ -1,0 +1,3 @@
+/home/pharmaracist/Noon-libqt/build/src/utils/noon_utils_autogen/include/../EWIEGA46WW/moc_cava_watcher.cpp.json
+/home/pharmaracist/Noon-libqt/build/src/utils/noon_utils_autogen/include/../EWIEGA46WW/moc_highlighter.cpp.json
+/home/pharmaracist/Noon-libqt/build/src/utils/noon_utils_autogen/include/../EWIEGA46WW/moc_hyprparser.cpp.json
