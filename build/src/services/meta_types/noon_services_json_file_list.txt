@@ -1,2 +1,0 @@
-/home/pharmaracist/Noon-libqt/build/src/services/noon_services_autogen/include/../EWIEGA46WW/moc_clipboard.cpp.json
-/home/pharmaracist/Noon-libqt/build/src/services/noon_services_autogen/include/../EWIEGA46WW/moc_resources.cpp.json

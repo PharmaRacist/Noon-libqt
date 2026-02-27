@@ -1,1 +1,0 @@
-/home/pharmaracist/Noon-libqt/build/src/utils/qr/noon_utils_qr_autogen/include/../EWIEGA46WW/moc_qrcode.cpp.json

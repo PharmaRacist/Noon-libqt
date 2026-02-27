@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/Noon/Utils/Qr">
-    <file alias="qmldir">/home/pharmaracist/Noon-libqt/build/Noon/Utils/Qr/qmldir</file>
-  </qresource>
-</RCC>
-
